@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DebaduttaBarik
 - 👀 I’m interested in full stack developing 
-- 🌱 I’m currently learning java and html
+- 🌱 I’m currently learning reactjs
 -you can reach me by my number 9438163582
 
 <!---
